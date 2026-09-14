@@ -22,3 +22,4 @@ format: revealjs
 **Michael** I want to be able to us AI in the world of biochemistry
 
 
+Michael Loves kitties
