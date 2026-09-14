@@ -4,12 +4,13 @@ author: "Michael Chan, Yunjin Zhang(Alice), Yuhao Gao, Muhaimin Choudhury"
 format: revealjs
 ---
 ## Where did you live before MDS, and what is one thing you miss about it?
-
+I lived in Cambridge for three years before MDS. The thing I missed about was my friends & the time we played together.
 
 ## What did you do before MDS: a degree, a job, or both?
-
+I finished my undergraduate degree.
 
 ## What made you apply to MDS?
-
+I didn't want to study any pure or theoretical things.
 
 ## What is one thing you want to be able to do by the end of the program?
+Find a job and survive. Find a chance to work in America.
