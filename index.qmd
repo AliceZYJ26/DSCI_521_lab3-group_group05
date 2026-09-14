@@ -4,12 +4,13 @@ author: "Michael Chan, Yunjin Zhang(Alice), Yuhao Gao, Muhaimin Choudhury"
 format: revealjs
 ---
 ## Where did you live before MDS, and what is one thing you miss about it?
-
+**Michael** I lived in Winnipeg Manitoba. I miss my cat, Croissant 
 
 ## What did you do before MDS: a degree, a job, or both?
-
+**Michael** I worked at the NML for the past 10 years doing research on ebola 
 
 ## What made you apply to MDS?
-
+**Michael** I wanted to advance my career into the biotechnology
 
 ## What is one thing you want to be able to do by the end of the program?
+**Michael** I want to be able to us AI in the world of biochemistry
