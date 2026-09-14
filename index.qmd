@@ -7,6 +7,7 @@ format: revealjs
 **Alice** I have always lived in Vancouver, so I didn't have to relocate for MDS! That said, I do miss having more free time to explore the city's parks, seawall, and local coffee shops without a busy academic schedule.
 **Michael** I lived in Winnipeg Manitoba. I miss my cat, Croissant 
 **Muahimin** I lived in Bangladesh and I miss all the friends and family I left there.
+**Jerry** I lived in the woods. 
 
 ## What did you do before MDS: a degree, a job, or both?
 **Michael** I worked at the NML for the past 10 years doing research on ebola 
