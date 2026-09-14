@@ -4,7 +4,6 @@ author: "Michael Chan, Yunjin Zhang(Alice), Yuhao Gao, Muhaimin Choudhury"
 format: revealjs
 ---
 ## Where did you live before MDS, and what is one thing you miss about it?
-<<<<<<< HEAD
 **Yuhao** I lived in Cambridge for three years before MDS. The thing I missed about was my friends & the time we played together.
 
 ## What did you do before MDS: a degree, a job, or both?
@@ -15,7 +14,6 @@ format: revealjs
 
 ## What is one thing you want to be able to do by the end of the program?
 **Yuhao** Find a job and survive. Find a chance to work in America.
-=======
 **Michael** I lived in Winnipeg Manitoba. I miss my cat, Croissant 
 
 ## What did you do before MDS: a degree, a job, or both?
@@ -45,5 +43,4 @@ Muahimin : I loved working with data in my Master's. That piqued my interest in 
 
 ## What is one thing you want to be able to do by the end of the program?
 By the end of the program, I want to seamlessly design, train, and deploy production-ready machine learning pipelines to solve real-world problems.
->>>>>>> 2e2ed0c44fa179ec4bfce3b7387b33186128b6da
 >>>>>>> e40f999eed70bd55d6d5c1e2899954b042658c2e
