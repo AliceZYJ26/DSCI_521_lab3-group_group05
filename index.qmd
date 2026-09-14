@@ -13,3 +13,4 @@ Muahimin : I did both. Did a master's in Economics and I also worked as an adver
 Muahimin : I loved working with data in my Master's. That piqued my interest in data science.  
 
 ## What is one thing you want to be able to do by the end of the program?
+Muahimin : I want to be able to handle big datasets and extract great, wokrable insights from the data. I also want to able to build myself in order to work in the energy or healthcare.
