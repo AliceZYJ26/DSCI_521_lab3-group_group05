@@ -4,12 +4,12 @@ author: "Michael Chan, Yunjin Zhang(Alice), Yuhao Gao, Muhaimin Choudhury"
 format: revealjs
 ---
 ## Where did you live before MDS, and what is one thing you miss about it?
-
+Muahimin : I lived in Bangladesh and I miss all the friends and family I left there.
 
 ## What did you do before MDS: a degree, a job, or both?
-
+Muahimin : I did both. Did a master's in Economics and I also worked as an advertiser. 
 
 ## What made you apply to MDS?
-
+Muahimin : I loved working with data in my Master's. That piqued my interest in data science.  
 
 ## What is one thing you want to be able to do by the end of the program?
