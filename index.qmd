@@ -4,12 +4,13 @@ author: "Michael Chan, Yunjin Zhang(Alice), Yuhao Gao, Muhaimin Choudhury"
 format: revealjs
 ---
 ## Where did you live before MDS, and what is one thing you miss about it?
-
+I have always lived in Vancouver, so I didn't have to relocate for MDS! That said, I do miss having more free time to explore the city's parks, seawall, and local coffee shops without a busy academic schedule.
 
 ## What did you do before MDS: a degree, a job, or both?
-
+Both! I completed a Bachelor of Science in Mathematics (Statistics and Data Science) at the University of Macau. On the professional side, I worked as a Machine Learning Engineer Intern at M2M Tech Inc., an Assistant(Data Analyst) at Sun Life Financial Inc.
 
 ## What made you apply to MDS?
-
+I applied to MDS to build on my background in statistics and computer science by mastering the end-to-end data science value chain. The program's practical focus on extracting, analyzing, and presenting data insights aligns perfectly with my goal to help organizations make data-driven decisions.
 
 ## What is one thing you want to be able to do by the end of the program?
+By the end of the program, I want to seamlessly design, train, and deploy production-ready machine learning pipelines to solve real-world problems.
