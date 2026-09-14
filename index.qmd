@@ -4,25 +4,12 @@ author: "Michael Chan, Yunjin Zhang(Alice), Yuhao Gao, Muhaimin Choudhury"
 format: revealjs
 ---
 ## Where did you live before MDS, and what is one thing you miss about it?
-- **Michael**:
-- **Alice**:
-- **Yuhao**:
-- **Muhaimin**:
+
 
 ## What did you do before MDS: a degree, a job, or both?
-- **Michael**:
-- **Alice**:
-- **Yuhao**:
-- **Muhaimin**:
+
 
 ## What made you apply to MDS?
-- **Michael**:
-- **Alice**:
-- **Yuhao**:
-- **Muhaimin**:
+
 
 ## What is one thing you want to be able to do by the end of the program?
-- **Michael**:
-- **Alice**:
-- **Yuhao**:
-- **Muhaimin**:
