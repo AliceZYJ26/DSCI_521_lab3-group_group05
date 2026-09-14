@@ -1,0 +1,5 @@
+---
+title: "Lab 3"
+author: "Michael, Alice, Yuhao, Muhaimin"
+format: revealjs
+---
