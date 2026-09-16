@@ -53,4 +53,7 @@ format: revealjs
 :::
 
 ## Alice (Yunjing) Zhang (alice26)
-![Alice Zhang's Merge Conflict](images/Alice_image.png)
+::: {layout-ncol=2}
+![Alice Zhang's Merge Conflict 1](images/AliceZYJ26_image_1.png)
+![Alice Zhang's Merge Conflict 2](images/AliceZYJ26_image_2.png)
+:::
