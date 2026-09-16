@@ -45,3 +45,9 @@ format: revealjs
 
 ## Michael Chan (mchan001)
 ![Michael Chan's Merge Conflict](images/mchan001.png)
+
+## Ahmed Muhaimin Choudhury (muchou)
+::: {layout-ncol=2}
+![Muhaimin Choudhury's merge conflict 1](images/muchou_Conflict_Screenshot_1.png) 
+![Muhaimin Choudhury's merge conflict 2](images/muchou_Conflict_Screenshot_2.png)
+:::
