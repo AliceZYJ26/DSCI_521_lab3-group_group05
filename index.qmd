@@ -56,6 +56,6 @@ format: revealjs
 Note that in this repository Alice had used two GitHub accounts to commit and push, namely `alice26` (UBC account) and `AliceZYJ26` (Personal account).
 
 ::: {layout-ncol=2}
-![Alice Zhang's Merge Conflict 1](images/alice26_image_2.png)
+![Alice Zhang's Merge Conflict 1](images/alice26_image_1.png)
 ![Alice Zhang's Merge Conflict 2](images/alice26_image_2.png)
 :::
