@@ -1,9 +1,15 @@
 ---
-title: "Group 5 lab3"
-author: "Michael Chan, Yunjin Zhang(Alice), Yuhao Gao, Muhaimin Choudhury"
+title: "Group 5 Lab 3"
+author:
+  - "Michael Chan"
+  - "Yunjin Zhang (Alice)"
+  - "Yuhao Gao"
+  - "Muhaimin Choudhury"
 format: revealjs
 ---
-## Where did you live before MDS, and what is one thing you miss about it?
+
+## Where did you live before MDS, and what is one thing you miss about it? {.smaller}
+
 **Yuhao**I lived in Cambridge for three years before MDS. The thing I missed about was my friends & the time we played together.
 
 **Michael** I lived in Winnipeg Manitoba. I miss my cat, Croissant 
@@ -13,7 +19,8 @@ format: revealjs
 **Alice** I have always lived in Vancouver, so I didn't have to relocate for MDS! That said, I do miss having more free time to explore the city's parks, seawall, and local coffee shops without a busy academic schedule.
 
 
-## What did you do before MDS: a degree, a job, or both?
+## What did you do before MDS: a degree, a job, or both? {.smaller}
+
 **Yuhao** I finished my undergraduate degree.
 
 **Michael** I worked at the NML for the past 10 years doing research on ebola
@@ -23,7 +30,8 @@ format: revealjs
 **Alice** Both! I completed a Bachelor of Science in Mathematics (Statistics and Data Science) at the University of Macau. On the professional side, I worked as a Machine Learning Engineer Intern at M2M Tech Inc., an Assistant(Data Analyst) at Sun Life Financial Inc.
 
 
-## What made you apply to MDS?
+## What made you apply to MDS? {.smaller}
+
 **Michael** I wanted to advance my career into the biotechnology
 
 **Yuhao**I didn't want to study any pure or theoretical things.
@@ -34,7 +42,8 @@ format: revealjs
 
 
 
-## What is one thing you want to be able to do by the end of the program?
+## What is one thing you want to be able to do by the end of the program? {.smaller}
+
 **Yuhao**Find a job and survive. Find a chance to work in America.
 
 **Michael** I want to be able to us AI in the world of biochemistry
@@ -44,18 +53,35 @@ format: revealjs
 **Alice** By the end of the program, I want to seamlessly design, train, and deploy production-ready machine learning pipelines to solve real-world problems.
 
 ## Michael Chan (mchan001)
+
 ![Michael Chan's Merge Conflict](images/mchan001.png)
 
 ## Ahmed Muhaimin Choudhury (muchou)
-::: {layout-ncol=2}
-![Muhaimin Choudhury's merge conflict 1](images/muchou_Conflict_Screenshot_1.png) 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![Muhaimin Choudhury's merge conflict 1](images/muchou_Conflict_Screenshot_1.png)
+:::
+
+::: {.column width="50%"}
 ![Muhaimin Choudhury's merge conflict 2](images/muchou_Conflict_Screenshot_2.png)
 :::
 
-## Alice Zhang (alice26)
+::::
+
+## Alice Zhang (alice26) {.smaller}
+
 Note that in this repository Alice had used two GitHub accounts to commit and push, namely `alice26` (UBC account) and `AliceZYJ26` (Personal account).
 
-::: {layout-ncol=2}
+:::: {.columns}
+
+::: {.column width="50%"}
 ![Alice Zhang's Merge Conflict 1](images/alice26_image_1.png)
+:::
+
+::: {.column width="50%"}
 ![Alice Zhang's Merge Conflict 2](images/alice26_image_2.png)
 :::
+
+::::
