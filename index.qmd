@@ -87,6 +87,5 @@ Note that in this repository Alice had used two GitHub accounts to commit and pu
 ::::
 
 ## Yuhao Gao (gyh072)
-Hi -I'm Michael
-Hello - this is michael again
+
 ![Yuhao Gao's Merge Conflict](images/gyh072.png)
